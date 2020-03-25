@@ -1,8 +1,10 @@
-![img](https://i.imgur.com/7aKrRB6.png)
+![img](https://i.imgur.com/p5UFeQN.png)
+
+# Pixel nzws Cursor Packs
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/nzws/cursor/Node%20CI?style=for-the-badge)](https://github.com/nzws/cursor/actions)
 
-# How to use
+## How to use
 
 ### English
 
@@ -19,7 +21,7 @@
 3. 上から順番にカーソルを適用させてください。(`01 通常` → `通常の選択`)
 4. `適用` をクリックしてください。
 
-# License
+## License
 
 - Illust by: [@Resicaxo](https://github.com/Resicaxo)
 - The illusts licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
