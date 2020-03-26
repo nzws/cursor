@@ -1,6 +1,6 @@
-![img](https://i.imgur.com/p5UFeQN.png)
+![img](https://i.imgur.com/6nMvAbT.png)
 
-# Pixel nzws Cursor Packs
+# Pixel wasabi-chan Cursor Packs
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/nzws/cursor/Node%20CI?style=for-the-badge)](https://github.com/nzws/cursor/actions)
 
