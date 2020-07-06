@@ -16,7 +16,7 @@
     "format": "npm-run-all format:* -s"
   },
   "devDependencies": {
-    "@nzws/prettier-config": "^1.0.0",
+    "@nzws/prettier-config": "^1.0.1",
     "npm-run-all": "~4",
     "prettier": "~2.0.1"
   },
